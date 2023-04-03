@@ -35,7 +35,7 @@ body {
 }
 
 .nav-link:hover {
-  color: rgb(26, 113, 134);
+  text-transform: uppercase;
 }
 
 /* Main Block */
